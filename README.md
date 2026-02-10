@@ -1,18 +1,18 @@
 # C Programming Fundamentals
 
-This repository contains a collection of **basic C programs** covering fundamental programming concepts.  
-It is intended for beginners who are learning the C language and want hands-on practice with simple, logic-based problems.
+This repository contains a collection of **basic to beginner-friendly C programs** that cover essential programming concepts.  
+It is designed for students who are starting with the C language and want to build strong logical and problem-solving skills.
 
-Each program is written in a clear and understandable manner to strengthen core programming skills.
+Each program focuses on clarity, simplicity, and correct use of C syntax.
 
-
+---
 
 ## 📌 Topics Covered
 
 ### 🔢 Basic Programs
-- Addition & Multiplication
+- Addition and Multiplication
 - Average of numbers
-- Area & Perimeter calculations
+- Area and Perimeter calculations
 - Even or Odd number check
 - Positive or Negative number check
 - Maximum of two numbers
@@ -22,8 +22,8 @@ Each program is written in a clear and understandable manner to strengthen core 
 - Sorting an array
 
 ### 🔁 Control Statements
-- Conditional statements
-- Loop-based logic problems
+- Conditional statements (`if`, `else`)
+- Loop-based logic programs
 
 ### 🔤 Character Handling
 - ASCII value of characters
@@ -34,9 +34,9 @@ Each program is written in a clear and understandable manner to strengthen core 
 - Number of days in a month
 - Kilometer to Mile conversion
 
-(More beginner-level C programs will be added over time.)
+➡️ More beginner-level and logic-based C programs will be added progressively.
 
-
+---
 
 ## 📂 Repository Structure
 
